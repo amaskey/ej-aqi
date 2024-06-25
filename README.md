@@ -1,0 +1,2 @@
+Environmental justice means the fair treatment of all people from environmental impacts, regardless of race, color, national origin, education level, or income. This code uses machine learning (ML) to highlight air quality disparities in Jefferson County, Alabama.
+cnn-lstm-AQI.ipynb is a Google Colab Notebook that implements the CNN-LSTM approach to predict AQI based on historical data and correlates with demographic information.
